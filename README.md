@@ -4,3 +4,6 @@
 
 ### MySQL
 + <a href="https://pika-chu.tistory.com/758">[Error] Data too long for column 'password' at row 1</a>
+
+### Java
++ <a href="https://zzang9ha.tistory.com/352">java: cannot find symbol</a>
