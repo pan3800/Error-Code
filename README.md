@@ -3,6 +3,9 @@
 + <a href="https://byul91oh.tistory.com/231">! [rejected] main -> main (fetch first)</a>
 + <a href="https://heytech.tistory.com/477">error: src refspec main does not match any</a>
 + <a href="https://heytech.tistory.com/477">fatal: Need to specify how to reconcile divergent branches.</a>
++ <a href="https://gwan.tistory.com/8">fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try</a>
 
 ### MySQL
 + <a href="https://pika-chu.tistory.com/758">[Error] Data too long for column 'password' at row 1</a>
