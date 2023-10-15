@@ -6,7 +6,7 @@
 + <a href="https://gwan.tistory.com/8">fatal: It seems that there is already a rebase-merge directory, and
 I wonder if you are in the middle of another rebase.  If that is the
 case, please try</a>
-<a href="https://algoroot.tistory.com/28">Git에서 Push 명령어 입력 후 error: src refspec main does not match any 오류 해결방법</a>
++ <a href="https://algoroot.tistory.com/28">Git에서 Push 명령어 입력 후 error: src refspec main does not match any 오류 해결방법</a>
 
 ### MySQL
 + <a href="https://pika-chu.tistory.com/758">[Error] Data too long for column 'password' at row 1</a>
