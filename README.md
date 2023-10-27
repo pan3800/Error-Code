@@ -19,3 +19,6 @@ case, please try</a>
 + <a href="https://velog.io/@pung8146/Uncaught-runtime-errors">Uncaught runtime errors:</a>
 
 ### Linux
+
+### Node.js 
++ <a href="https://velog.io/@jaehyeon23/Error-listen-EADDRINUSE-address-already-in-use-8080">Error: listen EADDRINUSE: address already in use :::8080</a>
