@@ -22,3 +22,4 @@ case, please try</a>
 
 ### Node.js 
 + <a href="https://velog.io/@jaehyeon23/Error-listen-EADDRINUSE-address-already-in-use-8080">Error: listen EADDRINUSE: address already in use :::8080</a>
++ <a href="https://velog.io/@ssonnni/VS-CODE-code-is-already-running-%ED%95%B4%EA%B2%B0%EB%B2%95">Code is already running!</a>
