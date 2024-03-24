@@ -11,18 +11,6 @@ case, please try</a>
 ### MySQL
 + <a href="https://pika-chu.tistory.com/758">[Error] Data too long for column 'password' at row 1</a>
 
-### Java
-+ <a href="https://zzang9ha.tistory.com/352">java: cannot find symbol</a>
+### Flutter
 
-### React 
-+ <a href="https://velog.io/@threejoon/React%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4%EC%84%9C-%EB%A7%89%ED%98%94%EB%8D%98-%EC%A0%901">module has no exports</a>
-+ <a href="https://velog.io/@pung8146/Uncaught-runtime-errors">Uncaught runtime errors:</a>
-
-### Linux
-
-### Node.js 
-+ <a href="https://velog.io/@jaehyeon23/Error-listen-EADDRINUSE-address-already-in-use-8080">Error: listen EADDRINUSE: address already in use :::8080</a>
-+ <a href="https://velog.io/@ssonnni/VS-CODE-code-is-already-running-%ED%95%B4%EA%B2%B0%EB%B2%95">Code is already running!</a>
-+ <a href="https://studioplug.tistory.com/353">Emitted 'error' event on Server instance at:</a>
-
-### Python 
+### Vue.js
