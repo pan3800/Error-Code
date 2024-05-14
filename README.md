@@ -11,6 +11,6 @@ case, please try</a>
 ### MySQL
 + <a href="https://pika-chu.tistory.com/758">[Error] Data too long for column 'password' at row 1</a>
 
-### Flutter
-
-### Vue.js
+### iOS
++ <a href="">Linker command failed with exit code 1 (use -v to see invocation)
+</a>
