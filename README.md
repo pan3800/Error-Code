@@ -14,3 +14,4 @@ case, please try</a>
 ### iOS
 + <a href="">Linker command failed with exit code 1 (use -v to see invocation) </a>
 + <a href="https://lxxyeon.tistory.com/208">File not found: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a</a>
++ <a href="https://note.com/simd_float4x4/n/n776d1b019b2c">Invalid redeclaration of 'User'</a>
