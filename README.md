@@ -17,3 +17,6 @@ case, please try</a>
 + <a href="https://lxxyeon.tistory.com/208">File not found: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a</a>
 + <a href="https://note.com/simd_float4x4/n/n776d1b019b2c">Invalid redeclaration of 'User'</a>
 + <a href="https://codecrew.codewithchris.com/t/unknown-attribute-observable-error/24849">Unknown attribute 'Observeble'</a>
+
+### Firebase 
++ <a href="">Firebase용 Cloud Storage 버킷("instagramclone-5ef5f.appspot.com")에서 클라이언트 요청을 거부하고 있으며 보안 규칙을 업데이트할 때까지 이 상태가 지속됩니다.</a>
