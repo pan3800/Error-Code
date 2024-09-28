@@ -20,3 +20,4 @@ case, please try</a>
 
 ### Firebase 
 + <a href="https://velog.io/@pan3800/Firebase%EC%9A%A9-Cloud-Storage-%EB%B2%84%ED%82%B7%EC%97%90%EC%84%9C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%9A%94%EC%B2%AD%EC%9D%84-%EA%B1%B0%EB%B6%80%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9C%BC%EB%A9%B0-%EB%B3%B4%EC%95%88-%EA%B7%9C%EC%B9%99%EC%9D%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%A0-%EB%95%8C%EA%B9%8C%EC%A7%80-%EC%9D%B4-%EC%83%81%ED%83%9C%EA%B0%80-%EC%A7%80%EC%86%8D%EB%90%A9%EB%8B%88%EB%8B%A4">Firebase용 Cloud Storage 버킷("instagramclone-5ef5f.appspot.com")에서 클라이언트 요청을 거부하고 있으며 보안 규칙을 업데이트할 때까지 이 상태가 지속됩니다.</a>
++ <a href="">입력한 '프로젝트 공개용 이름'은 악의적인 것으로 분류되어 계속 진행할 수 없습니다.</a>
